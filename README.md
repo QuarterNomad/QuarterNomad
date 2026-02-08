@@ -1,9 +1,13 @@
+<div align="center">
+
 # [QuarterNomad](https://www.andrewcode.top)
 
 *Wandering at the age of 25.*
 
+</div>
+
 - **Education**: Chongqing University (CQU)
-- **Experience**: Meituan -> Baidu
+- **Experience**: Meituan → Baidu
 
 ### Welcome to my [Homepage](https://www.andrewcode.top)
 
@@ -19,4 +23,3 @@
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-
