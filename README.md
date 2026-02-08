@@ -9,17 +9,17 @@
 - **Education**: Chongqing University (CQU)
 - **Experience**: ![Meituan](https://img.shields.io/badge/Meituan-FFC300?style=flat-square&logo=meituan&logoColor=black) **→** ![Baidu](https://img.shields.io/badge/Baidu-005BAC?style=flat-square&logo=baidu&logoColor=white)
 
-### Welcome to my [Homepage](https://www.andrewcode.top)
+### Welcome to my [Website](https://www.andrewcode.top)
 
 ### 🚀 Tech Stack
 
-#### ☕ Backend & Architecture
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Backend**:
+![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-333333?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-333333?style=flat-square&logo=redis&logoColor=white)
 
-#### 🐘 Big Data & Infrastructure
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+**Big Data**:
+![Spark](https://img.shields.io/badge/Spark-333333?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-333333?style=flat-square&logo=apachehadoop&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-333333?style=flat-square&logo=apachehive&logoColor=white)
