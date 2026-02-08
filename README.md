@@ -7,7 +7,7 @@
 </div>
 
 - **Education**: Chongqing University (CQU)
-- **Experience**: Meituan → Baidu
+- **Experience**: ![Meituan](https://img.shields.io/badge/Meituan-FFC300?style=flat-square&logo=meituan&logoColor=black) **→** ![Baidu](https://img.shields.io/badge/Baidu-005BAC?style=flat-square&logo=baidu&logoColor=white)
 
 ### Welcome to my [Homepage](https://www.andrewcode.top)
 
