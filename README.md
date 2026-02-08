@@ -7,7 +7,7 @@
 
 ## Welcome to my [Website](https://www.andrewcode.top)
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Backend**:
 ![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk&logoColor=white)
