@@ -1,12 +1,19 @@
+<div align="center">
+
 # [QuarterNomad](https://www.andrewcode.top)
 
-*Wandering at the age of 25.*
+*Wandering at the age of 25.* 🌊
 
+[![Website](https://img.shields.io/badge/Visit-My%20Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.andrewcode.top)
+
+</div>
+
+<br>
 
 - **Education**: Chongqing University (CQU)
 - **Experience**: ![Meituan](https://img.shields.io/badge/Meituan-FFC300?style=flat-square&logo=meituan&logoColor=black) **→** ![Baidu](https://img.shields.io/badge/Baidu-005BAC?style=flat-square&logo=baidu&logoColor=white)
 
-### Welcome to my [Website](https://www.andrewcode.top)
+---
 
 ### 🚀 Tech Stack
 
