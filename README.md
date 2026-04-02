@@ -1,11 +1,11 @@
-# [QuarterNomad ](https://www.andrewcode.top)
+# [QuarterNomad ](https://www.andrewcode.top/about)
 
 - Study at: Chongqing University (CQU)
 
 
 - Experience: Meituan => Baidu
 
-## Welcome to my [Website](https://www.andrewcode.top)
+## Welcome to my [Website](https://www.andrewcode.top/about)
 
 ## Tech Stack
 
