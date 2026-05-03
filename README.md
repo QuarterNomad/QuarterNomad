@@ -3,7 +3,7 @@
 - Study at: Chongqing University (CQU)
 
 
-- Experience: Meituan => Baidu
+- Experience: Meituan => Baidu => Shopee
 
 ## Welcome to my [Website](https://www.andrewcode.top/about)
 
